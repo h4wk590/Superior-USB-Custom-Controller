@@ -48,7 +48,7 @@ plastic base. We also wanted to make sure that we had all the measurements exact
 
 -We knew that we would have to solder. It was my first experience soldering, and it turned out I was alright at it -atleast for my first try!
 
--The wires we bought at our local robotics shop turned out to just be a little too short for the job, so we ended up suing cat5 ethernet!
+-The wires we bought at our local robotics shop turned out to just be a little too short for the job, so we ended up using cat5 ethernet!
 
 -The Teensy Arduino IDE is Java based, but the original {Joystick} code was all that we really needed in order for our board to work, besides a slight change to include a delay between actuation of the physical switches & buttons.
 
