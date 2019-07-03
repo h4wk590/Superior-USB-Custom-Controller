@@ -7,7 +7,7 @@ This was a university project from my Project Management class.
 
 **The main goals were:**
 
--To understand how Sprints work within a technoloy setting as a Project Manager
+-To understand how Sprints work within a technology setting as a Project Manager
 
 -To enhance collaborative abilities with a group of people to meet a due date
 
