@@ -17,11 +17,11 @@ This was a university project from my Project Management class.
 
 The first steps we took in this project were:
 
--What type of micro-controller we were going to use
+-What type of micro-controller we were going to use?
 
--What the end design would look like
+-What the end design would look like?
 
--How it would be wired together
+-How it would be wired together?
 
 ![alt text](https://github.com/h4wk590/Superior-USB-Custom-Controller/blob/master/SUCC/img/diagram_SUCC.jpg)
 
