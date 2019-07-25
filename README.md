@@ -25,7 +25,7 @@ The first steps we took in this project were:
 
 ![alt text](https://github.com/h4wk590/Superior-USB-Custom-Controller/blob/master/SUCC/img/diagram_SUCC.jpg)
 
-**This was the very first whiteboard design of how the wiring would look** (notice how we left the analog side out of the breadboard - *it wasn't in our scope*)
+**This was the very first whiteboard design of how the wiring would look** (notice how we left the digital side out of the breadboard - *it wasn't in our scope*)
 
 ![alt text](https://github.com/h4wk590/Superior-USB-Custom-Controller/blob/master/SUCC/img/early_design_SUCC.jpg)
 
