@@ -7,21 +7,21 @@ This was a university project from my Project Management class.
 
 **The main goals were:**
 
--To understand how Sprints work within a technology setting as a Project Manager
+- To understand how Sprints work within a technology setting as a Project Manager
 
--To enhance collaborative abilities with a group of people to meet a due date
+- To enhance collaborative abilities with a group of people to meet a due date
 
--To build a bomb-a** USB controller, and learn some new skills along the way
+- To build a bomb-ass USB controller, and learn some new skills along the way
 
 ## Design
 
 The first steps we took in this project were:
 
--What type of micro-controller we were going to use?
+- What type of micro-controller we were going to use?
 
--What the end design would look like?
+- What the end design would look like?
 
--How it would be wired together?
+- How it would be wired together?
 
 ![alt text](https://github.com/h4wk590/Superior-USB-Custom-Controller/blob/master/SUCC/img/diagram_SUCC.jpg)
 
@@ -46,11 +46,11 @@ plastic base. We also wanted to make sure that we had all the measurements exact
 
 ### Skills learned 
 
--We knew that we would have to solder. It was my first experience soldering, and it turned out I was alright at it -atleast for my first try!
+- We knew that we would have to solder. It was my first experience soldering, and it turned out I was alright at it -atleast for my first try!
 
--The wires we bought at our local robotics shop turned out to just be a little too short for the job, so we ended up using cat5 ethernet!
+- The wires we bought at our local robotics shop turned out to just be a little too short for the job, so we ended up using cat5 ethernet!
 
--The Teensy Arduino IDE is Java based, but the original {Joystick} code was all that we really needed in order for our board to work, besides a slight change to include a delay between actuation of the physical switches & buttons.
+- The Teensy Arduino IDE is Java based, but the original {Joystick} code was all that we really needed in order for our board to work, besides a slight change to include a delay between actuation of the physical switches & buttons.
 
 ![alt text](https://github.com/h4wk590/Superior-USB-Custom-Controller/blob/master/SUCC/img/test_soldering_to_teensy.jpeg)
 
