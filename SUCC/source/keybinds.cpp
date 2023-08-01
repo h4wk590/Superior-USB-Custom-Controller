@@ -68,37 +68,37 @@ void loop() {
   // falling = high (not pressed - voltage from pullup resistor)
   //           to low (pressed - button connects pin to ground)
   if (button0.fallingEdge()) {
-    Keyboard.print("¤");
+    Keyboard.print("Â¤");
   }
   if (button1.fallingEdge()) {
-    Keyboard.print("é");
+    Keyboard.print("Ã©");
   }
   if (button2.fallingEdge()) {
-    Keyboard.print("ç");
+    Keyboard.print("Ã§");
   }
   if (button3.fallingEdge()) {
-    Keyboard.print("î");
+    Keyboard.print("Ã®");
   }
   if (button4.fallingEdge()) {
-    Keyboard.print("æ");
+    Keyboard.print("Ã¦");
   }
   if (button5.fallingEdge()) {
-    Keyboard.print("û");
+    Keyboard.print("Ã»");
   }
   if (button6.fallingEdge()) {
-    Keyboard.print("¢");
+    Keyboard.print("Â¢");
   }
   if (button7.fallingEdge()) {
-    Keyboard.print("á");
+    Keyboard.print("Ã¡");
   }
   if (button8.fallingEdge()) {
-    Keyboard.print("¬");
+    Keyboard.print("Â¬");
   }
   if (button9.fallingEdge()) {
-    Keyboard.print("»");
+    Keyboard.print("Â»");
   }
   if (button10.fallingEdge()) {
-    Keyboard.print("µ");
+    Keyboard.print("Âµ");
   }
   // Check each button for "rising" edge
   // Type a message on the Keyboard when each button releases.
@@ -107,36 +107,36 @@ void loop() {
   // rising = low (pressed - button connects pin to ground)
   //          to high (not pressed - voltage from pullup resistor)
   if (button0.risingEdge()) {
-    Keyboard.print("¤");
+    Keyboard.print("Â¤");
   }
   if (button1.risingEdge()) {
-    Keyboard.print("é");
+    Keyboard.print("Ã©");
   }
   if (button2.risingEdge()) {
-    Keyboard.print("ç");
+    Keyboard.print("Ã§");
   }
   if (button3.risingEdge()) {
-    Keyboard.print("î");
+    Keyboard.print("Ã®");
   }
   if (button4.risingEdge()) {
-    Keyboard.print("æ");
+    Keyboard.print("Ã¦");
   }
   if (button5.risingEdge()) {
-    Keyboard.print("û");
+    Keyboard.print("Ã»");
   }
   if (button6.risingEdge()) {
-    Keyboard.print("¢");
+    Keyboard.print("Â¢");
   }
   if (button7.risingEdge()) {
-    Keyboard.print("á");
+    Keyboard.print("Ã¡");
   }
   if (button8.risingEdge()) {
-    Keyboard.print("¬");
+    Keyboard.print("Â¬");
   }
   if (button9.risingEdge()) {
-    Keyboard.print("»");
+    Keyboard.print("Â»");
   }
   if (button10.risingEdge()) {
-    Keyboard.print("µ");
+    Keyboard.print("Âµ");
 
 }
